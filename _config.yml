@@ -1,6 +1,7 @@
 # Site settings
-title: "Brandon's Resume "
-description: "Brandon's resume from GitHub merge conflict training."
+title: "John Doe's Resume"
+description: "Resume template based on John Doe's resume."
+
 
 # Build settings
 markdown: kramdown
