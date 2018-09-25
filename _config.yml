@@ -2,6 +2,7 @@
 title: "John Doe's Resume"
 description: "Resume template based on John Doe's resume."
 
+
 # Build settings
 markdown: kramdown
 sass:
